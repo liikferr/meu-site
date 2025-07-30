@@ -19,7 +19,7 @@ Feito com carinho usando Visual Studio Code e publicado com GitHub Pages 💻
 ## 📬 Como acessar?
 
 Basta clicar [aqui](https://liikferr.github.io/meu-site) para abrir em qualquer dispositivo!  
-*(Troque “SEU_USUARIO” pelo seu nome de perfil no GitHub)*
+
 
 ---
 
